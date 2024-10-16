@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dafecodes
-- 👀 I’m interested in coding with flutter, PHP(laravel), GO LANG, ANGULAR
-- 💞️ I’m looking to collaborate on projects built with angular, flutter and laravel
+- 👀 I write in Flutter & Dart, PHP(Vanilla, Codeigniter, Symfony and mostly Laravel), GOLANG, ANGULAR, REACT
+- 💞️ I’m looking to collaborate on projects built with angular, flutter, react and laravel
 - 📫 How to reach me twitter: @dafecodes
 
 <!---
